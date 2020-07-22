@@ -1,7 +1,17 @@
 # cookieDemos
 Cookie Demos for Alpha Anywhere Demo and Q&amp;A  Webcast on July 22, 2020
 
-Helpful Links:
+## Watch the Webinar on YouTube
+
+Link coming soon!
+
+[Subscribe to the Alpha Software YouTube Channel](https://www.youtube.com/user/AlphaSoftwareInc) to get notifications for when new videos are posted.
+
+## Powerpoint Presentation
+
+You can find the slides for the July 22, 2020, webinar in the "Powerpoint" folder of this repository.
+
+## Helpful Links
 
 * [Context.Request Object](https://documentation.alphasoftware.com/documentation/index?search=api%20objects%20context%20request%20object) -- See HasCookie() and GetCookie() method
 * [Context.Response Object](https://documentation.alphasoftware.com/documentation/index?search=api%20objects%20context%20response%20object) -- See AppendCookie() method
