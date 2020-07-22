@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<meta name="generator" content="Alpha Anywhere HTML Editor Version 12 Build 6865-5498">
+<!-- must use in order to make XP Themes render -->
+<meta HTTP-EQUIV="MSThemeCompatible" content="Yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<head>
+<title></title>
+</head>
+<body>
+
+<%a5
+
+	dim cookieName as c = "MyCookie"
+    dim cookie as System::Web::HttpCookie = new System::Web::HttpCookie(cookieName)
+    cookie.HttpOnly = .t.
+    cookie.Expires = *add_days(now(),1)
+    cookie.Value = "This is my cookie"
+
+    Context.Response.AppendCookie(cookie)
+
+
+%>
+
+</body>
+</html>
