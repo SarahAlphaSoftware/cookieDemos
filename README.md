@@ -3,7 +3,8 @@ Cookie Demos for Alpha Anywhere Demo and Q&amp;A  Webcast on July 22, 2020
 
 ## Watch the Webinar on YouTube
 
-Link coming soon!
+[Alpha Anywhere Webcast 2020 July 22
+](https://youtu.be/_323LsNZNB4)
 
 [Subscribe to the Alpha Software YouTube Channel](https://www.youtube.com/user/AlphaSoftwareInc) to get notifications for when new videos are posted.
 
